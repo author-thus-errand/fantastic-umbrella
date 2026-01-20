@@ -1,11 +1,12 @@
 {
-  "name": "FixXEmbeds",
-  "description": "Automatically replaces twitter.com links with fxtwitter.com and x.com links with fixupx.com before sending/editing for proper Discord embeds.",
-  "version": "1.0.0",
-  "authors": [
-    {
-      "name": "name",
-      "id": "000000000000000000"
-    }
-  ]
+    "name": "FixXEmbeds",
+    "description": "Automatically replaces twitter.com links with fxtwitter.com and x.com links with fixupx.com before sending/editing for proper Discord embeds.",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "name",
+            "id": "000000000000000000"
+        }
+    ],
+    "main": "src/index.ts"
 }
