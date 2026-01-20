@@ -1,0 +1,1 @@
+{"name":"FixXEmbeds","description":"Automatically replaces twitter.com links with fxtwitter.com and x.com links with fixupx.com before sending/editing for proper Discord embeds.","version":"1.0.0","authors":[{"name":"name","id":"000000000000000000"}],"main":"index.js","hash":"711d91a3474f7280f341c7c2cfaa1fb356b767872d8ccf069e861a5d93279af3"}
